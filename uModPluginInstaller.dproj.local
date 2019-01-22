@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/21 22:16:36.000.514,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/28 12:52:37.000.604,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/21 23:21:45.000.351,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/21 21:19:02.000.502,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uModPluginInstaller.dproj</Transaction>
+    <Transaction>2019/01/21 21:21:40.000.038,=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas</Transaction>
+    <Transaction>2019/01/21 21:21:45.000.672,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uCommands.pas</Transaction>
+    <Transaction>2019/01/21 21:25:19.000.334,=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas</Transaction>
+    <Transaction>2019/01/21 21:25:31.000.352,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uServerConst.pas</Transaction>
+    <Transaction>2019/01/21 21:59:37.000.647,=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas</Transaction>
+    <Transaction>2019/01/21 21:59:45.000.675,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uPluginManager.pas</Transaction>
+    <Transaction>2019/01/21 23:34:37.000.913,=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas</Transaction>
+    <Transaction>2019/01/21 23:34:45.000.765,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uConfigManager.pas</Transaction>
+    <Transaction>2019/01/21 23:47:10.000.859,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uServerConst.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uConst.pas</Transaction>
+    <Transaction>2019/01/22 11:16:13.000.524,=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas</Transaction>
+    <Transaction>2019/01/22 11:16:18.000.909,C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\Unit1.pas=C:\Users\adria\OneDrive\QuantumSoftware\uMod\uModPluginInstallerCLI\uHelpers.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="4d00223657609015"/>
+	</ActiveMobileDevice>
+</BorlandProject>
